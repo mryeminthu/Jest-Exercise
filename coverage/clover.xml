@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1689712250959" clover="3.2.0">
+  <project timestamp="1689712250959" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7" elements="37" coveredelements="37" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Users\dhamm\Desktop\Jest-Exercise\calculator.js">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="2" count="7" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="7" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="C:\Users\dhamm\Desktop\Jest-Exercise\capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="reversed.js" path="C:\Users\dhamm\Desktop\Jest-Exercise\reversed.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="stringLength.js" path="C:\Users\dhamm\Desktop\Jest-Exercise\stringLength.js">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
